@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CARACOL 1
-https://hls.tdtcolombiana.com/static/listas-de-reproduccion-en-streaming/hls/0b111256-9c4a-4e63-89ad-78e9ebbc1487/0.m3u8
+https://atres-live.atresmedia.com/fbf2ec078ced3777aebe370466e65fb7f384c057_ES_1724162797_1724191537/h264/live/antena3/master.m3u8
 #EXTINF:-1,CARACOL 2
 https://hls.tdtcolombiana.com/static/listas-de-reproduccion-en-streaming/hls/1536442d-6135-49a0-b0cd-bcfc82b8c42b/0.m3u8
 #EXTINF:-1,CARACOL 2
